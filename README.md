@@ -7,7 +7,7 @@ This project combines **HTML5** and **CSS3** to deliver a visually engaging and 
 
 ## 🌟 Project Overview
 
-**Jane’s Coffee Shop** is more than just a café — it’s a **community hub** that celebrates creativity through coffee, art, and talent.  
+**Jane’s Coffee Shop** is more than just a café.It’s a **community hub** that celebrates creativity through coffee, art, and talent.  
 The website aims to:
 - Present the shop’s **mission and values**.
 - Showcase its **menu**, **services**, and **innovation**.
@@ -27,15 +27,15 @@ The website is fully static, designed with **smooth animations**, **responsive g
 - Hover and transition effects on images, headers, and buttons.  
 
 ### 📋 Sections
-1. **Header** – Hero banner with logo and slogan.  
-2. **Background** – A brief introduction to the coffee shop.  
-3. **Services** – Details on offerings such as mentoring, deliveries, and community events.  
-4. **Innovation** – Description of the shop’s social and business values.  
-5. **Menu** – Product cards displaying drinks and snacks with prices.  
-6. **Order Form** – Simple form for customers to request deliveries.  
-7. **Gallery** – Image grid showing shop interiors, customers, and coffee-making.  
-8. **Social Media** – Contact links for email, Instagram, Facebook, and phone.  
-9. **Footer** – Closing message and logo.  
+1. **Header** : Hero banner with logo and slogan.  
+2. **Background** : A brief introduction to the coffee shop.  
+3. **Services** : Details on offerings such as mentoring, deliveries, and community events.  
+4. **Innovation** : Description of the shop’s social and business values.  
+5. **Menu** : Product cards displaying drinks and snacks with prices.  
+6. **Order Form** : Simple form for customers to request deliveries.  
+7. **Gallery** : Image grid showing shop interiors, customers, and coffee-making.  
+8. **Social Media** : Contact links for email, Instagram, Facebook, and phone.  
+9. **Footer** : Closing message and logo.  
 
 ---
 
@@ -128,4 +128,5 @@ The layout automatically adjusts to various screen sizes using:
 
 Designed and developed by **Jane**.
 Built with passion for coffee, creativity, and community.
+
 
